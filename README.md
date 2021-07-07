@@ -10,7 +10,7 @@ File 2: ODMatrix.txt
   Each row contains three number (a,b,c), where a and b are customers' Virtual Number and 
   c is the distance in real-life between a and b.
   
- Files 1002 to 1230:
+ Files in "cola":
     These files are the data using in this work.
    
     First line: Customer number need to be served.
@@ -36,5 +36,5 @@ File 2: ODMatrix.txt
     For each arc, it has a speed profile.
     eg.  the link (0,4) is assigned with speed profile 1, which is given by [Speed 1].
     
-  
+ Files in "ans":  
   
